@@ -20,8 +20,7 @@
 - 📫 How to reach me **samprince.franklink2020@vitstudent.ac.in**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sam-prince-franklin-k-849aa8140](https://www.linkedin.com/in/sam-prince-franklin-k-849aa8140)
-
-### Blogs posts
+#Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
